@@ -1,2 +1,2 @@
 # hello!
-this is my first app. Yayy
+this is my first app. Yay
